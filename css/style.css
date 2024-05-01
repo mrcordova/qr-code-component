@@ -10,6 +10,11 @@
     height: 497px;
     width: 320px;
     margin: auto;
+    border-radius: 20px;
+    padding: 15px;
+}
+.card-img-container {
+    border-radius: 5px;
 }
 .card-para {
     color: var(--grayish-blue);
@@ -17,7 +22,5 @@
 .container {
   
     background-color: var(--light-gray);
-    height: 1440px;
-    width: 100%;
     font-size: 15px;
 }
