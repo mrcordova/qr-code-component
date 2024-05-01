@@ -19,6 +19,8 @@
 .card-para {
     color: var(--grayish-blue);
     font-size: 15px;
+    margin-left: 13px;
+    margin-right: 20px;
 }
 .card-text-section {
     text-align: center;
@@ -27,7 +29,7 @@
     color: var(--dark-blue);
 }
 .container {
-  
     background-color: var(--light-gray);
     font-size: 15px;
+    padding: 70px 0;
 }
