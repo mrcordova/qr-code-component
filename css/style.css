@@ -18,6 +18,13 @@
 }
 .card-para {
     color: var(--grayish-blue);
+    font-size: 15px;
+}
+.card-text-section {
+    text-align: center;
+}
+.card-text-section h2 {
+    color: var(--dark-blue);
 }
 .container {
   
