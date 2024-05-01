@@ -5,9 +5,17 @@
     --dark-blue: hsl(218, 44%, 22%);
 }
 
+.card {
+    background-color: var(--white);
+    height: 497px;
+    width: 320px;
+    margin: auto;
+}
 
 .container {
+  
     background-color: var(--light-gray);
-    height: 1440px; 
+    height: 1440px;
+    width: 100%;
     font-size: 15px;
 }
